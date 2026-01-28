@@ -22,7 +22,7 @@ Outputs:
 ## Installation
 Requires Python 3 and the following libraries:
 ```bash
-pip install pandas matplotlib
+pip install -r requirements.txt
 ```
 
 ## Usage
